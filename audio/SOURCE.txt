@@ -1,0 +1,19 @@
+Campfire sound: user-provided recording
+Original file: 660300__ambient-x__campfire-deer-camp-21-minutes-wind-snow-sleet-part-5.wav
+Adapted to mono for positional playback, with gentle loudness normalization, a one-second loop crossfade and MP3 compression.
+
+Helicopter: user-provided 49483__lorenzosu__helicopterraw_30sec.wav (lorenzosu). Converted to mono with a 150 ms loop crossfade and MP3 encoding. Original supplied recording: 3.974 seconds.
+
+Coffee sip: user-provided 471078__sheyvan__sipping-drink.wav (sheyvan). Converted from 24-bit mono PCM to 96 kbps MP3; original duration 0.6364375 seconds. One-shot playback when the cup reaches the mouth.
+
+Cigarette exhale: user-provided voice_female_a_breath_blow_02.wav from their Gamemaster Audio - Pro Sound Collection. Converted from 16-bit mono 48 kHz PCM to 96 kbps MP3. Original duration 1.180229 seconds; one-shot playback 1 second into the smoking action.
+
+Firework launch and burst (user supplied, 2026-11-08)
+Sources: firework_shoot.mp3 / firework_explode.mp3 provided by the project owner.
+Web assets: firework-shoot.mp3 / firework-explode.mp3, mono 44.1 kHz 96 kbps.
+Triggered once at rocket launch / aerial burst; positional attenuation and fixed voice budget.
+
+Car engine: procedurally synthesized for NamsanWalk.
+Pipe entry/exit: user-provided mario_in.mp3 and mario_out.mp3.
+Fall impact: user-provided dragon-studio-punch-431475.mp3; leading silence trimmed for immediate playback.
+Audio credits describe provenance and do not grant a blanket reuse license.

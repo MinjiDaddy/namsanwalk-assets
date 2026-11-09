@@ -1,0 +1,16 @@
+Namsan illustrated day/night panoramas
+
+Files: seoul-day-illustrated.png; seoul-night-illustrated.png
+Created with the built-in OpenAI image generation tool on 2026-11-07.
+The night version was generated from the daytime illustration to preserve its layout.
+Both images: 2172 x 724 pixels, PNG. Originals copied without pixel edits.
+Runtime copies: seoul-day-illustrated.webp and seoul-night-illustrated.webp; WebP quality 90, same dimensions and composition.
+
+Reference photograph: N Seoul Tower Panorama 001, User Spike (2014)
+https://commons.wikimedia.org/wiki/File:N_Seoul_Tower_Panorama_001.jpg
+https://creativecommons.org/licenses/by-sa/4.0/
+These illustrated adaptations are distributed under CC BY-SA 4.0.
+Changes: AI redrawing, simplified architecture and vegetation, restyled colors,
+recomposed city/river geography, matching night lighting. Not an accurate map.
+The map screenshot was used only as a palette reference.
+
